@@ -38,7 +38,7 @@
     "debug": "^2.2.0",
     "lodash": "^3.9.3",
     "normalize-url": "^1.2.1",
-    "vador": "https://github.com/Ekallatum/vador/tarball/a60633ea8e50296633746fec9ba9b05aa0736a04",
+    "vador": "https://github.com/Ekallatum/vador/tarball/c33c53bb625eb7fcf8e98e9186c1500e8a2f0026",
     "yaku": "^0.2.0"
   },
   "devDependencies": {
